@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @z3n70
+- 👋 Hi, I’m Zenal Arifin :)
 
 <!---
 z3n70/z3n70 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
